@@ -6,3 +6,7 @@ last_part = movie1[42:]
 
 # Select from 33rd to the 42nd character
 middle_part = movie2[33-1:42]
+
+# Print concatenation and movie2 variable
+print(first_part+middle_part+last_part) 
+print(movie2)
